@@ -1,7 +1,21 @@
-
+/*----------------------------------------------
+                                               -
+JLin                                           -
+                                               -
+Date: 2021/03/17                               -
+                                               -
+update：2023/10/28                             -
+                                               -
+https://www.bsgun.cn 【写作不易】               -
+                                               -
+看见这个我希望你能够留下我信息					 -
+                                               -
+-----------------------------------------------*/
 * {
     margin: 0;
     padding: 0;
+	-webkit-user-select: none;
+	user-select: none;
 }
 body {
 	background: #f7f7f7;
@@ -27,7 +41,7 @@ span {
 	position: relative;
     margin: 60px auto 0px auto;
     width: 900px;
-   	background: rgb(255 255 255 / 3%);
+	background: #ffffff12;
     border-radius: 10px;
    	box-shadow: 0 0 15px 0 rgb(138 138 138 / 15%);
 }
@@ -58,31 +72,27 @@ span {
 .about h2 {
 	margin: 15px 0px 15px 0px;
 }
-.icp {
+.copyright {
     color: #ccc;
     margin: 10px 0 0;
     font-size: 11px;
 }
-.icp img {
+.copyright img {
     position: relative;
     top: 5px;
 }
-
 footer a {
     font-size: 12px;
     color: #A6A6A6;
     margin: 0px 6px;
 }
-
 footer a:hover {
     color: #dcd5d5;
 }
-
 .footer-nav {
     text-align: center;
     margin-top: 50px;
 }
-
 .guoqi {
     width: 48px;
     height: 30px;
@@ -104,14 +114,14 @@ footer a:hover {
    	.about {
    		padding: 20px!important;
    	}
+	.icp {
+		display: block;
+	}
 }
 @media (prefers-color-scheme:dark) {
     body {
-        background-color: #111;
-        color: #999;
-    }
-    .main {
-    	background-color: #171717;
+		color: #999!important;
+		background-color: #111!important;
     }
 }
 ::-webkit-scrollbar {

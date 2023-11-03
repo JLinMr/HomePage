@@ -8,7 +8,7 @@ update：2023/10/28                             -
                                                -
 https://www.bsgun.cn 【写作不易】               -
                                                -
-看见这个我希望你能够留下我信息					 -
+看见这个我希望你能够留下我信息                   -
                                                -
 -----------------------------------------------*/
 let darkMode = localStorage.getItem("darkMode");

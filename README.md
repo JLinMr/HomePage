@@ -1,5 +1,5 @@
 ## HomePage
-一个简介的个人主页
+一个超简洁的个人主页
 
 ![个人主页](https://i0.wp.com/s2.loli.net/2023/11/03/MdOKuHU6XFp8hxz.png)
 
